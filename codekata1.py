@@ -2,6 +2,6 @@ a=int(input("Enter a number:"))
 if(a==0):
     print(a,"is zero")
 elif(a>0):
-    print("number is positive")
+    print("positive")
 else:
-    print("number is negative")    
+    print("negative")    
