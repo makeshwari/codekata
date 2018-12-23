@@ -1,5 +1,5 @@
 class listnode(object):
- def init(self,y):
+ def _init_(self,y):
   self.value=y
   self.next=none
 class solution(object):
