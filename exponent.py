@@ -1,4 +1,4 @@
-n=2
-k=3
+n=int(input(""))
+k=int(input(""))
 n=n**k
 print(n)
