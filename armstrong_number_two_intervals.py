@@ -1,6 +1,6 @@
-low = 100
-up = 2000
-for num in range(low, up + 1):
+x = 100
+y = 2000
+for num in range(x, y + 1):
    order = len(str(num))
    sum = 0
    temp = num
@@ -9,4 +9,4 @@ for num in range(low, up + 1):
        sum += digit ** 3
        temp //= 10
    if num == sum:
-       print(num)
+       print(num+" ")
