@@ -9,4 +9,5 @@ for num in range(x, y + 1):
        sum += digit ** 3
        temp //= 10
    if num == sum:
-       print(num+" ")
+       print(num /n)
+       
